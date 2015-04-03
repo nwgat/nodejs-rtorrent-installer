@@ -3,7 +3,7 @@ Installer for nodejs-rtorrent
 
 * Requires root
 * Recommended for VPS/VMs
-* Ut will NOT distroy you files, as there is no remove/delete command in the script, but still use a VPS/VMs to test please
+* it will NOT distroy you files, as there is no remove/delete command in the script, but still use a VPS/VMs to test please
 
 # Install
 * `git clone https://github.com/nwgat/nodejs-rtorrent-installer.git && cd nodejs-rtorrent-installer`
