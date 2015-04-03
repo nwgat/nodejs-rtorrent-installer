@@ -7,7 +7,6 @@ Installer for nodejs-rtorrent
 * then follow the instructions
 
 # tip:
-if you want access to files from /home/rtorrent/rtdl
-login with `su rtorrent` and type `passwd` to set your own password
-then you can use port 22 in filezilla, xftp, smartftp, etc
-or use the highly recommended lftp utility
+* if you want access to files from /home/rtorrent/rtdl
+* login with `su rtorrent` and type `passwd` to set your own password
+* then you can use port 22 in filezilla, xftp, smartftp, etc or use the highly recommended lftp utility
